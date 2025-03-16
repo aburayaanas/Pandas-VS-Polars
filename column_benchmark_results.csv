@@ -1,0 +1,9 @@
+operation,library,columns,time_ms
+Filter,pandas,5,214.14899826049805
+Filter,polars,5,69.05388832092285
+Filter,pandas,10,377.9184818267822
+Filter,polars,10,133.4547996520996
+Filter,pandas,20,408.7824821472168
+Filter,polars,20,217.393159866333
+Filter,pandas,50,1006.2077045440674
+Filter,polars,50,546.2641716003418
